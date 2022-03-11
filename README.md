@@ -1,1 +1,1 @@
-# Querying_Lab
+# querying-lab
